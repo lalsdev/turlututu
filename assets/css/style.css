@@ -1,6 +1,7 @@
 html, body {
   margin: 0;
   padding: 0;
+  font-family: "Open Sans", sans-serif;
 }
 
 .footer {
@@ -33,5 +34,25 @@ html, body {
 
 .bgbutton {
   background-color: orange;
+}
+
+.petitlogo {
+  width: 120px;
+}
+
+.petitlogo1 {
+  width: 95px;
+}
+
+.petitlogo3 {
+  width: 150px;
+}
+
+.bgbleu {
+  background-color: #165882;
+}
+
+.centered > button {
+  min-width: 125px;
 }
 /*# sourceMappingURL=style.css.map */

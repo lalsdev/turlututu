@@ -1,7 +1,7 @@
 # Welcome Page
 ## Turlututu.
 The goal is to recreate a welcome page from a picture <br>
-<!-- You can see the page [here](https://lalysingh.github.io/restaurant-css-framework/). -->
+You can see the page [here](https://lalysingh.github.io/turlututu/)
 
 ## Motivation?
 As part of my training in Web Development at BeCode, it is an optional project that I wanted to do. 

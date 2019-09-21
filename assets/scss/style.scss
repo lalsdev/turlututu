@@ -1,5 +1,30 @@
+html,body {
+  margin:0;
+  padding:0;
+}
 .footer{
   position: absolute;
   bottom: 0;
   width: 100%;
+}
+.resize{
+  width: 220px;
+  height: 272px;
+}
+.resizelogo{
+  width: 300px;
+}
+.fattext{
+  font-weight: bold;
+}
+.logodebut::before{
+  content: "";
+  height: 2rem;
+  width: 107px;
+  background-image: url(/assets/img/logo.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bgbutton{
+  background-color: orange;
 }

@@ -23,15 +23,6 @@ html, body {
   font-weight: bold;
 }
 
-.logodebut::before {
-  content: "";
-  height: 2rem;
-  width: 107px;
-  background-image: url(/assets/img/logo.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
 .bgbutton {
   background-color: orange;
 }

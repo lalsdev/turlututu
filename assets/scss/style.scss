@@ -44,3 +44,10 @@ html,body {
 .centered>button{
   min-width: 125px;
 }
+.chatbox{
+  right: 20px;
+  bottom: 20px;
+  display: flex;
+  position: fixed;
+  border-radius: 10%;
+}

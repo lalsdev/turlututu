@@ -4,7 +4,7 @@ The goal is to recreate a welcome page from a picture <br>
 <!-- You can see the page [here](https://lalysingh.github.io/restaurant-css-framework/). -->
 
 ## Motivation?
-As part of my training in Web Development at BeCode, it is an optional project that I wanted to do. 
+This is an exercise as part of BeCode Training.
 
 The picture below is the base I need to work on, I need to recreate this page from this picture.
 ![aim](/assets/img/aim.png)

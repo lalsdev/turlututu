@@ -56,4 +56,12 @@ html, body {
   position: fixed;
   border-radius: 10%;
 }
+
+.fontsize {
+  font-size: 18px;
+}
+
+.fontsize1 {
+  font-size: 40px;
+}
 /*# sourceMappingURL=style.css.map */
